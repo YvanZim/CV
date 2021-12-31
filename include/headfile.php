@@ -1,4 +1,7 @@
-		<meta charset="UTF-8">
+	<meta name="robots" content="noindex" />
+	<link rel="canonical" href="https://yvanzimmermann.com" />
+	
+	<meta charset="UTF-8">
 
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
 		
